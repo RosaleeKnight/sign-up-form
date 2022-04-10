@@ -4,7 +4,7 @@
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/sign-up-form.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/sign-up-form)
 
 # 🖱️ Website Sign Up Form
-A sign up form design I created while doing the Odin Project coursework.
+A sign up form design on a webpage I created while doing the Odin Project coursework.
 
 -----
 # 💻 How to install 
@@ -12,4 +12,4 @@ Installation not required.
 
 -----
 # ❔ How to use
-Live at: 
+Live at: https://rosaleeknight.github.io/sign-up-form/
